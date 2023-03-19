@@ -1,2 +1,1 @@
-# activity lifecycle and state
- 
+![gif](practice.gif)
